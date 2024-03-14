@@ -118,13 +118,15 @@ Internet service provider (ISP) are connected to other services providers.
 
 ### 1) Bus
 
-![IMG_20240312_151450_946.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfd92d7-3a7c-49ad-a094-7c14cf6f9140/cdf335e2-8b2c-4cdf-b71e-c84045754227/IMG_20240312_151450_946.jpg)
+![image](https://github.com/DeevitYakkundi/Networking-Systems/assets/88937605/1c363d7c-a34e-4067-ae4c-f2b1dd4d2b2a)
+
 
 If one thing breaks down the whole gwad damn thing fails
 
 ### 2) Ring
 
-![0.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfd92d7-3a7c-49ad-a094-7c14cf6f9140/dbf8d341-f2cf-469e-9a3f-a764a0965a5e/0.jpg)
+![image](https://github.com/DeevitYakkundi/Networking-Systems/assets/88937605/6392314c-565e-4642-bf17-e62716bc7f6c)
+
 
 - If A has to communicate with D then data has to be passed to B> C and then D.
 - One cable breaks then system fails.
@@ -132,20 +134,23 @@ If one thing breaks down the whole gwad damn thing fails
 
 ### 3) Star
 
-![IMG_20240312_151450_969.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfd92d7-3a7c-49ad-a094-7c14cf6f9140/eaf2296b-b07c-4f83-a2db-3a2fe7ef1181/IMG_20240312_151450_969.jpg)
+![image](https://github.com/DeevitYakkundi/Networking-Systems/assets/88937605/a55a2353-82cc-4810-9f0a-2abb22cb902f)
+
 
 - If the central device fails the system fails.
 - Central hub forms a mediator
 
 ### 4) Tree
 
-![IMG_20240312_151450_976.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfd92d7-3a7c-49ad-a094-7c14cf6f9140/40f830a5-2efe-4e96-835c-e8f07d8052c1/IMG_20240312_151450_976.jpg)
+![image](https://github.com/DeevitYakkundi/Networking-Systems/assets/88937605/b66039ed-d19d-498a-9334-7cb414a3e1fd)
+
 
 Combination of bus and star topology.
 
 ### 5) Mesh
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfd92d7-3a7c-49ad-a094-7c14cf6f9140/41ea78e5-a44c-422e-ae20-950d31276919/Untitled.png)
+![image](https://github.com/DeevitYakkundi/Networking-Systems/assets/88937605/6109cd1a-72b0-41ba-8e76-ce0a0bc42f77)
+
 
 - Every single computer is connected to everyone single computer.
 - Very expensive.
