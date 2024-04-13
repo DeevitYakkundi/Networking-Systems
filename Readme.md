@@ -718,4 +718,12 @@ Filter out IP packets based on various rules
     
     ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9cfd92d7-3a7c-49ad-a094-7c14cf6f9140/552b1b76-e9b3-4bd7-ac13-e3b872542371/Untitled.png)
     
-    This is done to slow down the consumption of IP ad
+    This is done to slow down the consumption of IP addresses
+    
+
+---
+
+## Data Link Layer
+
+- The packets that we receive from network layer data link layer is responsible to send these packets over physical layer
+-
